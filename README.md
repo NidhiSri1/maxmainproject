@@ -40,7 +40,7 @@ Product Page
 CheckOut Page
 ![App Screenshot](https://miro.medium.com/max/875/1*CZRg0DPH2Af3cFSRt1V6Rg.jpeg)
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherinempeterson.com/)
+<!-- [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherinempeterson.com/) -->
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srinidhi-57/)
 
